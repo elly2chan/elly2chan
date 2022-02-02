@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elena. ((:
-- 👀 I’m interested in programming, databases, backend, frontend, AI.
+- 👀 I’m interested in programming, databases but mostly web development.
 - 🌱 I’m currently learning Python in SoftUni.
 - 💞️ I’m looking to collaborate on interesting web projects.
 - 📫 How to reach me DM or at elena.iv.konstantinova@gmail.com.
