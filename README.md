@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elena. ((:
-- 👀 For me programming is Wonderland (and I'm Alice).
+- 👀 For me programming is Wonderland.
 - 🌱 I’m currently learning Python in SoftUni.
 - 💞️ I’m looking to collaborate on interesting web projects.
 - 📫 How to reach me? DM or at elena.iv.konstantinova@gmail.com.
