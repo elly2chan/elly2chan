@@ -1,21 +1,35 @@
-<h2> Hi, I'm Elena! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Blockchain IP Analyst at <a href="http://www.cognyte.com">Cognyte</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
+# Hello World 👋
 
-[![Linkedin: elena-konstantinova](https://www.linkedin.com/in/elena-konstantinova/)]
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+class PythonEnthusiast:
 
-```javascript
-const elly = {
-  code: [Python, Java, HTML, CSS],
-  tools: [],
-  architecture: ["microservices", "event-driven", "design system pattern"]
-}
+    def __init__(self):
+        self.name = "Elena Konstantinova"
+        self.role = "Blockchain IP Analyst"
+        self.language_spoken = ["bg_BG", "en_US"]
+
+    def say_hi(self):
+        print("I am currently studying Django at Software University Sofia. On my way to graduate as a Python Full Stack Developer <3.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## 📝 Blogs
 
----
+- Personal website and blog: https://zhenye-na.github.io/
+- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
+- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
