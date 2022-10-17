@@ -11,8 +11,7 @@ class PythonEnthusiast:
         self.language_spoken = ["bg_BG", "en_US"]
 
     def say_hi(self):
-        print("I am currently studying Django at Software University Sofia. 
-        On my way to graduate as a Python Full Stack Developer <3.")
+        print("Currently studying Python Web Development @ SoftUni.")
 
 
 me = SoftwareEngineer()
