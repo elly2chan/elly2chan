@@ -1,8 +1,6 @@
 # Hello World 👋
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 
 class PythonEnthusiast:
