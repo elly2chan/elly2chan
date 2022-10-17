@@ -21,4 +21,6 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
+<div>
 <h1> PYTHON </h1>
+</div>
