@@ -14,7 +14,7 @@ class PythonEnthusiast:
         print("Currently studying Python Web Development at SoftUni.")
 
 
-me = SoftwareEngineer()
+me = PythonEnthusiast()
 me.say_hi()
 ```
 
