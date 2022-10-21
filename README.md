@@ -11,7 +11,7 @@ class PythonEnthusiast:
         self.language_spoken = ["bg_BG", "en_US"]
 
     def say_hi(self):
-        print("Currently on the way to graduate from SoftUni as a Full Stack Developer with Python ((:")
+        print("Currently on the way to graduate from SoftUni as a Full Stack Developer with Python 🤟")
 
 
 me = PythonEnthusiast()
