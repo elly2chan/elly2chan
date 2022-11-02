@@ -3,7 +3,7 @@
 ```python
 
 
-class PythonEnthusiast:
+class PythonWonderlander:
 
     def __init__(self):
         self.name = "Elena Konstantinova"
@@ -14,7 +14,7 @@ class PythonEnthusiast:
         print("Currently on the way to graduate from SoftUni as a Full Stack Developer with Python 🤟")
 
 
-me = PythonEnthusiast()
+me = PythonWonderlander()
 me.say_hi()
 ```
 
