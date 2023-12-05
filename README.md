@@ -7,11 +7,11 @@ class PythonWonderlander:
 
     def __init__(self):
         self.name = "Elena Konstantinova"
-        self.role = "Blockchain IP Analyst"
+        self.role = "Full-Stack Developer with Python and JS "
         self.language_spoken = ["bg_BG", "en_US"]
 
     def say_hi(self):
-        print("Currently on the way to graduate from SoftUni as a Full Stack Developer with Python 🤟")
+        print("🤟")
 
 
 me = PythonWonderlander()
